@@ -27,7 +27,7 @@ Some participants opted to not vote on some polls.
 Thank you to everyone who participated, and to the proposal authors for all
   their hard work!
 
-# Poll Results # {#poll-results}
+# Poll Outcomes # {#poll-outcomes}
 
 * SF: Strongly Favor.
 * WF: Weakly Favor.
@@ -158,7 +158,7 @@ Poll 9: Send [[P2301R0]] (Add A `pmr` Alias For `stacktrace`) to Library
 
 </table>
 
-# Selected Comments # {#selected-comments}
+# Selected Poll Comments # {#selected-poll-comments}
 
 ## Poll 1: [[P0323R10]] `expected` ## {#poll-1}
 
