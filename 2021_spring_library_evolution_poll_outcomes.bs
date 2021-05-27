@@ -27,7 +27,7 @@ Some participants opted to not vote on some polls.
 Thank you to everyone who participated, and to the proposal authors for all
   their hard work!
 
-# Summarized Poll Results # {#summarized-poll-results}
+# Poll Results # {#poll-results}
 
 * SF: Strongly Favor.
 * WF: Weakly Favor.
@@ -47,7 +47,7 @@ Thank you to everyone who participated, and to the proposal authors for all
 
 <tr>
 <td style="padding-bottom: 16px;">
-Poll 1: Send [[P0323R10]] (`expected` to Library Working Group for C++23
+Poll 1: Send [[P0323R10]] (`expected`) to Library Working Group for C++23
   instead of the proposed C++ Library Fundamentals Technical Specification
   version 3, classified as an addition ([[P0592R4]] bucket 3 item.
 <td>11
@@ -60,7 +60,7 @@ Poll 1: Send [[P0323R10]] (`expected` to Library Working Group for C++23
 <tr>
 <td style="padding-bottom: 16px;">
 Poll 2: Send [[P2325R2]] (Views Should Not Be Required To Be Default
-  Constructible to Library Working Group for C++23, classified as an
+  Constructible) to Library Working Group for C++23, classified as an
   improvement of an existing feature ([[P0592R4]] bucket 2 item, with the
   recommendation that implementations retroactively apply it to C++23.
 <td>21
@@ -72,7 +72,7 @@ Poll 2: Send [[P2325R2]] (Views Should Not Be Required To Be Default
 
 <tr>
 <td style="padding-bottom: 16px;">
-Poll 3: Send [[P2328R0]] (`join_view` Should Join All Views Of Ranges to
+Poll 3: Send [[P2328R0]] (`join_view` Should Join All Views Of Ranges) to
   Library Working Group for C++23, classified as an improvement of an existing
   feature ([[P0592R4]] bucket 2 item, with the recommendation that
   implementations retroactively apply it to C++23.
@@ -85,7 +85,7 @@ Poll 3: Send [[P2328R0]] (`join_view` Should Join All Views Of Ranges to
 
 <tr>
 <td style="padding-bottom: 16px;">
-Poll 4: Send [[P2210R2]] (Superior String Splitting to Library Working Group
+Poll 4: Send [[P2210R2]] (Superior String Splitting) to Library Working Group
   for C++23, classified as an improvement of an existing feature ([[P0592R4]]
   bucket 2 item, with the recommendation that implementations retroactively
   apply it to C++20.
@@ -98,7 +98,7 @@ Poll 4: Send [[P2210R2]] (Superior String Splitting to Library Working Group
 
 <tr>
 <td style="padding-bottom: 16px;">
-Poll 5: Send [[P2321R1]] (`views::zip` to Library Working Group for C++23,
+Poll 5: Send [[P2321R1]] (`views::zip`) to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item.
 <td>19
 <td>7
@@ -110,7 +110,7 @@ Poll 5: Send [[P2321R1]] (`views::zip` to Library Working Group for C++23,
 <tr>
 <td style="padding-bottom: 16px;">
 Poll 6: Send [[P2251R1]] (Require `span` & `basic_string_view` To Be Trivially
-  Copyable to Library Working Group for C++23, classified as an improvement of
+  Copyable) to Library Working Group for C++23, classified as an improvement of
   an existing feature ([[P0592R4]] bucket 2 item.
 <td>21
 <td>10
@@ -121,7 +121,7 @@ Poll 6: Send [[P2251R1]] (Require `span` & `basic_string_view` To Be Trivially
 
 <tr>
 <td style="padding-bottom: 16px;">
-Poll 7: Modify [[P1072R7]] (`basic_string::resize_and_overwrite` by adding a
+Poll 7: Modify [[P1072R7]] (`basic_string::resize_and_overwrite`) by adding a
   feature test macro, and then send the revised paper to Library Working Group
   for C++23, classified as an improvement of an existing feature ([[P0592R4]]
   bucket 2 item.
@@ -134,7 +134,7 @@ Poll 7: Modify [[P1072R7]] (`basic_string::resize_and_overwrite` by adding a
 
 <tr>
 <td style="padding-bottom: 16px;">
-Poll 8: Send [[P2340R0]] (Clarifying The Status Of The "C Headers" to Library
+Poll 8: Send [[P2340R0]] (Clarifying The Status Of The "C Headers") to Library
   Working Group for C++23, classified as an improvement of an existing feature
   ([[P0592R4]] bucket 2 item.
 <td>13
@@ -146,7 +146,7 @@ Poll 8: Send [[P2340R0]] (Clarifying The Status Of The "C Headers" to Library
 
 <tr>
 <td style="padding-bottom: 16px;">
-Poll 9: Send [[P2301R0]] (Add A `pmr` Alias For `stacktrace` to Library
+Poll 9: Send [[P2301R0]] (Add A `pmr` Alias For `stacktrace`) to Library
   Working Group for C++23, classified as an improvement of an existing feature
   ([[P0592R4]] bucket 2 item.
 <td>6
@@ -317,7 +317,11 @@ Poll 9: Send [[P2301R0]] (Add A `pmr` Alias For `stacktrace` to Library
 
 ## Poll 4: [[P2210R2]] Superior String Splitting ## {#poll-4}
 
-> The motivation and rationale for this change is convincing. Here in particular, we gain a split that actually works in practice in an easy-to-use manner, which is something we've been waiting for for decades. The original design rationale was a fine idea, but we need to be able to make such design compromises in order to ship a useful split facility.
+> The motivation and rationale for this change is convincing. Here in
+> particular, we gain a split that actually works in practice in an easy-to-use
+> manner, which is something we've been waiting for for decades. The original
+> design rationale was a fine idea, but we need to be able to make such design
+> compromises in order to ship a useful split facility.
 >
 > — Strongly Favor
 
