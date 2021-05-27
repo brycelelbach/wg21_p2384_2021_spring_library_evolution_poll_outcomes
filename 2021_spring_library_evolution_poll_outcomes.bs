@@ -5,7 +5,7 @@ Revision: 0
 Status: D
 Group: WG21
 Audience: WG21
-Editor: Bryce Adelstein Lelbach (he/him/his — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
+Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
 URL: https://wg21.link/P2384R0
 !Source: <a href="https://github.com/brycelelbach/wg21_p2384_2021_spring_library_evolution_poll_outcomes/blob/main/2021_spring_library_evolution_poll_outcomes.bs">GitHub</a>
 Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2233_2021_spring_library_evolution_poll_outcomes/issues
@@ -313,7 +313,7 @@ Poll 9: Send [[P2301R0]] (Add A `pmr` Alias For `stacktrace` to Library
 > requirements for range operations, but am not expert in this particular
 > example.
 >
-> — Choose to Not Vote
+> — Chose to Not Vote
 
 ## Poll 4: [[P2210R2]] Superior String Splitting ## {#poll-4}
 
@@ -530,5 +530,5 @@ Poll 9: Send [[P2301R0]] (Add A `pmr` Alias For `stacktrace` to Library
 > such extension against the consistency arguments with other `pmr::`
 > containers.
 >
-> — Choose to Not Vote
+> — Chose to Not Vote
 
