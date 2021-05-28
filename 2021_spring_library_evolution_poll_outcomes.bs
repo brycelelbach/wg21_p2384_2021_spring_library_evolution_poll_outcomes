@@ -72,8 +72,8 @@ Poll 2: Send [[P2325R2]] (Views Should Not Be Required To Be Default
 
 <tr>
 <td style="padding-bottom: 16px;">
-Poll 3: Send [[P2328R0]] (`join_view` Should Join All Views Of Ranges) to
-  Library Working Group for C++23, classified as an improvement of an existing
+Poll 3: Send [[P2328R0]] (`ranges::join_view` Should Join All Views Of Ranges)
+  to Library Working Group for C++23, classified as an improvement of an existing
   feature ([[P0592R4]] bucket 2 item, with the recommendation that
   implementations retroactively apply it to C++23.
 <td>17
@@ -292,10 +292,10 @@ Poll 9: Send [[P2301R0]] (Add A `pmr` Alias For `stacktrace`) to Library
 >
 > — Strongly Favor
 
-## Poll 3: [[P2328R0]] `join_view` Should Join All Views Of Ranges ## {#poll-3}
+## Poll 3: [[P2328R0]] `ranges::join_view` Should Join All Views Of Ranges ## {#poll-3}
 
-> This is a better design for join_view, and we are still in the window when we
-> can likely apply it to C++20.
+> This is a better design for `ranges::join_view`, and we are still in the
+> window when we can likely apply it to C++20.
 >
 > — Strongly Favor
 
