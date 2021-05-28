@@ -49,7 +49,7 @@ Thank you to everyone who participated, and to the proposal authors for all
 <td style="padding-bottom: 16px;">
 Poll 1: Send [[P0323R10]] (`expected`) to Library Working Group for C++23
   instead of the proposed C++ Library Fundamentals Technical Specification
-  version 3, classified as an addition ([[P0592R4]] bucket 3 item.
+  version 3, classified as an addition ([[P0592R4]] bucket 3 item).
 <td>11
 <td>11
 <td>1
@@ -61,7 +61,7 @@ Poll 1: Send [[P0323R10]] (`expected`) to Library Working Group for C++23
 <td style="padding-bottom: 16px;">
 Poll 2: Send [[P2325R2]] (Views Should Not Be Required To Be Default
   Constructible) to Library Working Group for C++23, classified as an
-  improvement of an existing feature ([[P0592R4]] bucket 2 item, with the
+  improvement of an existing feature ([[P0592R4]] bucket 2 item), with the
   recommendation that implementations retroactively apply it to C++23.
 <td>21
 <td>7
@@ -74,7 +74,7 @@ Poll 2: Send [[P2325R2]] (Views Should Not Be Required To Be Default
 <td style="padding-bottom: 16px;">
 Poll 3: Send [[P2328R0]] (`ranges::join_view` Should Join All Views Of Ranges)
   to Library Working Group for C++23, classified as an improvement of an existing
-  feature ([[P0592R4]] bucket 2 item, with the recommendation that
+  feature ([[P0592R4]] bucket 2 item), with the recommendation that
   implementations retroactively apply it to C++23.
 <td>17
 <td>8
@@ -87,7 +87,7 @@ Poll 3: Send [[P2328R0]] (`ranges::join_view` Should Join All Views Of Ranges)
 <td style="padding-bottom: 16px;">
 Poll 4: Send [[P2210R2]] (Superior String Splitting) to Library Working Group
   for C++23, classified as an improvement of an existing feature ([[P0592R4]]
-  bucket 2 item, with the recommendation that implementations retroactively
+  bucket 2 item), with the recommendation that implementations retroactively
   apply it to C++20.
 <td>21
 <td>8
@@ -99,7 +99,7 @@ Poll 4: Send [[P2210R2]] (Superior String Splitting) to Library Working Group
 <tr>
 <td style="padding-bottom: 16px;">
 Poll 5: Send [[P2321R1]] (`views::zip`) to Library Working Group for C++23,
-  classified as an addition ([[P0592R4]] bucket 3 item.
+  classified as an addition ([[P0592R4]] bucket 3 item).
 <td>19
 <td>7
 <td>0
@@ -111,7 +111,7 @@ Poll 5: Send [[P2321R1]] (`views::zip`) to Library Working Group for C++23,
 <td style="padding-bottom: 16px;">
 Poll 6: Send [[P2251R1]] (Require `span` & `basic_string_view` To Be Trivially
   Copyable) to Library Working Group for C++23, classified as an improvement of
-  an existing feature ([[P0592R4]] bucket 2 item.
+  an existing feature ([[P0592R4]] bucket 2 item).
 <td>21
 <td>10
 <td>0
@@ -124,7 +124,7 @@ Poll 6: Send [[P2251R1]] (Require `span` & `basic_string_view` To Be Trivially
 Poll 7: Modify [[P1072R7]] (`basic_string::resize_and_overwrite`) by adding a
   feature test macro, and then send the revised paper to Library Working Group
   for C++23, classified as an improvement of an existing feature ([[P0592R4]]
-  bucket 2 item.
+  bucket 2 item).
 <td>17
 <td>8
 <td>0
@@ -136,7 +136,7 @@ Poll 7: Modify [[P1072R7]] (`basic_string::resize_and_overwrite`) by adding a
 <td style="padding-bottom: 16px;">
 Poll 8: Send [[P2340R0]] (Clarifying The Status Of The "C Headers") to Library
   Working Group for C++23, classified as an improvement of an existing feature
-  ([[P0592R4]] bucket 2 item.
+  ([[P0592R4]] bucket 2 item).
 <td>13
 <td>8
 <td>2
@@ -148,7 +148,7 @@ Poll 8: Send [[P2340R0]] (Clarifying The Status Of The "C Headers") to Library
 <td style="padding-bottom: 16px;">
 Poll 9: Send [[P2301R0]] (Add A `pmr` Alias For `stacktrace`) to Library
   Working Group for C++23, classified as an improvement of an existing feature
-  ([[P0592R4]] bucket 2 item.
+  ([[P0592R4]] bucket 2 item).
 <td>6
 <td>14
 <td>5
