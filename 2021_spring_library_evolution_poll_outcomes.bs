@@ -62,7 +62,7 @@ Poll 1: Send [[P0323R10]] (`expected`) to Library Working Group for C++23
 Poll 2: Send [[P2325R2]] (Views Should Not Be Required To Be Default
   Constructible) to Library Working Group for C++23, classified as an
   improvement of an existing feature ([[P0592R4]] bucket 2 item), with the
-  recommendation that implementations retroactively apply it to C++23.
+  recommendation that implementations retroactively apply it to C++20.
 <td>21
 <td>7
 <td>0
@@ -75,7 +75,7 @@ Poll 2: Send [[P2325R2]] (Views Should Not Be Required To Be Default
 Poll 3: Send [[P2328R0]] (`ranges::join_view` Should Join All Views Of Ranges)
   to Library Working Group for C++23, classified as an improvement of an existing
   feature ([[P0592R4]] bucket 2 item), with the recommendation that
-  implementations retroactively apply it to C++23.
+  implementations retroactively apply it to C++20.
 <td>17
 <td>8
 <td>0
