@@ -16,6 +16,17 @@ No Abstract: yes
 Boilerplate: style-syntax-highlighting off
 </pre>
 
+<style>
+table, th, tr, td {
+  border: 2px solid black !important;
+}
+@media (prefers-color-scheme: dark) {
+  table, th, tr, td {
+    border: 2px solid white !important;
+  }
+}
+</style>
+
 # Introduction # {#introduction}
 
 In Spring 2021, the C++ Library Evolution group conducted a series of electronic
